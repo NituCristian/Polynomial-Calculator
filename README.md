@@ -5,5 +5,6 @@ The operations with two operands: addition, substraction, multiplication and div
 
 Example of polynomials:
 7x^3 + 15
+
 2x + 4
 
